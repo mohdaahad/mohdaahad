@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://mohdaahad.github.io/MyWeb/](https://mohdaahad.github.io/MyWeb/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mohdaahad.github.io/portfolio/)
 
 - 💬 Ask me about **Full Stack Web Developer**
 

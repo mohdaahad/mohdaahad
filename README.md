@@ -92,10 +92,7 @@ flowchart LR
 ### Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,nodejs,express,ts,react,nextjs,redux,tailwind,python,django,postgres,mysql,mongodb,redis,docker,aws,githubactions,git&theme=dark&perline=9" />
-    <img alt="Go, Node.js, Express, TypeScript, React, Next.js, Redux, Tailwind, Python, Django, PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS, GitHub Actions, Git" src="https://skillicons.dev/icons?i=go,nodejs,express,ts,react,nextjs,redux,tailwind,python,django,postgres,mysql,mongodb,redis,docker,aws,githubactions,git&theme=light&perline=9" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,nodejs,express,go,mongodb,postgres,mysql,redis,aws,docker,git,postman" />
 </p>
 
 ---
